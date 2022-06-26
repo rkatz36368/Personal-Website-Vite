@@ -1,0 +1,38 @@
+{
+  "name": "troisjs-app",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "emailjs-com": "^3.2.0",
+    "roboto-fontface": "*",
+    "three": "^0.134.0",
+    "troisjs": "^0.3.3",
+    "vue": "^3.2.20",
+    "vue-router": "^4.0.14",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "@vue/compiler-sfc": "^3.2.20",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.0",
+    "autoprefixer": "^10.4.5",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^8.7.1",
+    "postcss": "^8.4.12",
+    "prettier": "^2.6.2",
+    "sass": "^1.38.0",
+    "sass-loader": "^10.0.0",
+    "snowpack": "^3.8.8",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.6.14",
+    "vue-cli-plugin-vuetify": "~2.4.8",
+    "vuetify-loader": "^2.0.0-alpha.0"
+  }
+}
